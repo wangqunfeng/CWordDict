@@ -1,0 +1,125 @@
+1, monolithic  [mɒnə'lɪθɪk]
+adj. 整体的；巨石的，庞大的；完全统一的 
+n. 单块集成电路，单片电路
+2, evolutionary  [,iːvə'luːʃənərɪ]
+adj. 进化的；发展的；渐进的
+3, evolution  [,iːvə'luːʃ(ə)n; 'ev-]
+n. 演变；进化论；进展
+4, subroutine  ['sʌbruːtiːn]
+n. [计] 子程序
+5, partitioning  [pɑr'tɪʃən]
+n. 分割；分区 
+v. 把…分成部分；隔开（partition的ing形式）
+6, realization  [riːəlaɪ'zeɪʃn]
+n. 实现；领悟
+7, approximate  [ə'prɒksɪmət]
+vt. 近似；使…接近；粗略估计 
+vi. 接近于；近似于 
+adj. [数] 近似的；大概的
+8, estimated  ['estimetid]
+adj. 估计的；预计的；估算的
+9, merits  ['mɛrɪt]
+n. 优点（merit的复数）；功绩；是非曲直
+10, adopted  [ə'dɒptɪd]
+adj. 被收养的；被采用的 
+v. 采用；接受（adopt的过去式和过去分词）
+11, adequate  ['ædɪkwət]
+adj. 充足的；适当的；胜任的
+12, density  ['densɪtɪ]
+n. 密度
+13, curriculum  [kə'rɪkjʊləm]
+n. 课程 
+总课程 
+curriculum: 课程 | 课程设置 | 课程表
+14, scenario  [sɪ'nɑːrɪəʊ]
+n. 方案；情节；剧本 
+Scenario: 情境 | 情节 | 剧本
+15, aggressor  [ə'gresə]
+n. 侵略者；侵略国；挑衅者 
+Aggressor: 侵略者 | 攻击者 | 干扰源
+16, crosstalk  ['krɔs,tɔ:k]
+n. 相声；串话干扰，串台 
+Crosstalk: 串扰 | 串音 | 串话
+17, confidential  [kɒnfɪ'denʃ(ə)l]
+adj. 机密的；表示信任的；获信任的
+18, perturbations  
+n. [流] 扰动；不安（perturbation的复数形式） 
+perturbations: 扰动 | 摄动 | 动摇
+19, formulate  ['fɔːmjʊleɪt]
+vt. 规划；用公式表示；明确地表达
+20, simultaneously  [,sɪml'teɪnɪəslɪ]
+adv. 同时地
+21, coordinate  [kəʊ'ɔ:dɪneɪt]
+n. 坐标；同等的人或物 
+adj. 并列的；同等的 
+vt. 调整；整合 
+vi. 协调
+22, tuning  ['tjuːnɪŋ]
+n. [电子][通信] 调谐；调音，起弦；协调一致；起音，定音
+23, hybrid  ['haɪbrɪd]
+n. 杂种，混血儿；混合物 
+adj. 混合的；杂种的
+24, legalize  ['liɡəlaɪz]
+vt. 使合法化；公认；法律上认为…正当
+25, spread  [spred]
+vi. 传播；伸展 
+vt. 传播，散布；展开；伸展；铺开 
+n. 传播；伸展 
+adj. 伸展的
+26, critical  ['krɪtɪk(ə)l]
+adj. 鉴定的；[核] 临界的；批评的，爱挑剔的；危险的；决定性的；评论的
+27, heuristic  [,hjʊ(ə)'rɪstɪk]
+adj. 启发式的；探索的 
+n. 启发式教育法
+28, metrics  ['mɛtrɪks]
+n. 度量；作诗法；韵律学
+29, conjection  
+连词
+30, regression  [rɪ'ɡrɛʃən]
+n. 回归；退化；逆行；复原
+31, preliminary  [prɪ'lɪmɪnɛri]
+n. 准备；预赛；初步措施;
+adj. 初步的；开始的；预备的
+32, matrix  ['metrɪks]
+n. [数] 矩阵；模型；[生物][地质] 基质；母体；子宫；[地质] 脉石
+33, magic  ['mædʒɪk]
+n. 巫术；魔法；戏法;
+adj. 不可思议的；有魔力的；魔术的;
+n. (Magic)人名；(英)马吉克
+34, penalty  ['pɛnəlti]
+n. 罚款，罚金；处罚
+35, scenery  ['sinəri]
+n. 风景；景色；舞台布景
+36, acquaintance  [ə'kwentəns]
+n. 熟人；相识；了解；知道
+37, sanity  ['sænəti]
+n. 明智；头脑清楚；精神健全；通情达理
+38, identical  [aɪ'dɛntɪkl]
+adj. 同一的；完全相同的;
+n. 完全相同的事物
+39, sweet sport  
+
+40, sweet spot  
+甜蜜点；最有效点；最佳击球位置
+41, sloppy  ['slɒpɪ]
+adj. 草率的；粗心的；泥泞的；肥大的；稀薄的
+42, slightly  ['slaɪtli]
+adv. 些微地，轻微地；纤细地
+43, promote  [prə'mot]
+vt. 促进；提升；推销；发扬;
+vi. 成为王后或其他大于卒的子
+44, orientation  [orɪɛn'teʃən]
+n. 方向；定向；适应；情况介绍；向东方
+45, acknowledges  
+v. 承认（acknowledge的第三人称单数形式）
+46, acknowledge  [ək'nɑlɪdʒ]
+vt. 承认；答谢；报偿；告知已收到
+47, condense  [kən'dɛns]
+vi. 浓缩；凝结;
+vt. 使浓缩；使压缩
+48, Utility  [ju'tɪləti]
+n. 实用；效用；公共设施；功用;
+adj. 实用的；通用的；有多种用途的
+49, synthesize  ['sɪnθəsaɪz]
+vt. 合成；综合;
+vi. 合成；综合
